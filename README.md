@@ -28,7 +28,8 @@
 
 
 ## FastAPI:
-#### implement  the models using  FastAPI, a modern, fast web framework for building APIs with Python.
+#### Implement  the models using  FastAPI, a modern, fast web framework for building APIs with Python.
+#### You can choose to upload image or take a photo using your webcam when checking "send empty value" button then execute.
 #### [FastAPI_video](https://drive.google.com/file/d/1FrvYnjeNqmgeTK_TiTTK6UNIs8SbugyE/view?usp=drive_link)  
 ### Output
 ![DetectionAPI](https://github.com/israa2050/facial-emotion-detection/assets/47259697/cff9f176-ce93-48e3-999e-3ba24102da44)
