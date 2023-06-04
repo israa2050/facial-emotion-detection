@@ -26,8 +26,7 @@
 #### we implenet the models using  FastAPI, a modern, fast web framework for building APIs with Python.
 #### [FastAPI_video](https://drive.google.com/file/d/1FrvYnjeNqmgeTK_TiTTK6UNIs8SbugyE/view?usp=drive_link)  
 ### Output
-
-
+![DetectionAPI](https://github.com/israa2050/facial-emotion-detection/assets/47259697/cff9f176-ce93-48e3-999e-3ba24102da44)
 
 ## Authors
 #### This project was created by:
