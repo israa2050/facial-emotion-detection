@@ -6,7 +6,7 @@
 #### The FER2013 dataset contains 35,887 images of faces labeled with seven different emotions: anger, disgust, fear, happiness, sadness, surprise, and neutral.
 #### [Model Link](https://drive.google.com/drive/folders/1ZVfOJVbAl0D1_ZJDmAcnd1cp7a-EGEOg?usp=drive_link)
 
-## YOLOv5 for Face Object Detection using Custom WIDER FACE dataset
+## YOLOv5 for Face Object Detection using Custom WIDER FACE Dataset
 
 #### YOLOv5 is object detection algorithm that can detect objects with high accuracy and speed.
 #### 1- Train the YOLOv5 model on wider-face custom dataset.
