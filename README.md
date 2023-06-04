@@ -11,7 +11,7 @@
 #### YOLOv5 is object detection algorithm that can detect objects with high accuracy and speed.
 #### 1- Train the YOLOv5 model on wider-face custom dataset.
 #### 2- Detect the faces 
-#### 3- view the cropped faces 
+#### 3- View the cropped faces 
 #### 4- Evaluate the model
 
 ### Output
