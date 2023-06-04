@@ -5,6 +5,9 @@
 #### This repository contains implementation of a deep learning model for facial emotion detection using the FER2013 dataset.
 #### The FER2013 dataset contains 35,887 images of faces labeled with seven different emotions: anger, disgust, fear, happiness, sadness, surprise, and neutral.
 #### [Model Link](https://drive.google.com/drive/folders/1ZVfOJVbAl0D1_ZJDmAcnd1cp7a-EGEOg?usp=drive_link)
+### Output
+![Emotion Detectionpng](https://github.com/israa2050/facial-emotion-detection/assets/47259697/404bb787-2f05-4cb4-90f7-28d487803ffe)
+
 
 ## YOLOv5 for Face Object Detection using Custom WIDER FACE Dataset
 
