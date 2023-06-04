@@ -10,6 +10,8 @@
 
 
 ## YOLOv5 for Face Object Detection using Custom WIDER FACE Dataset
+###  Wider Face Dataset
+#### is a popular dataset for face detection that includes over 32,000 images with bounding box annotations for faces. 
 
 #### YOLOv5 is an object detection algorithm that can detect objects with high accuracy and speed.
 #### 1- Train the YOLOv5 model on wider-face custom dataset.
