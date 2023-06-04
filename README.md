@@ -1,4 +1,4 @@
-# Facial Emotion Detection using YOlov5 and Deep Learning Model
+# Facial Emotion Detection using Yolov5 and Deep Learning Model
 
 ## Deep Learning Model for Facial Emotion Detection using FER2013 Dataset
 
