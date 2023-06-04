@@ -8,7 +8,7 @@
 
 ## YOLOv5 for Face Object Detection using Custom WIDER FACE Dataset
 
-#### YOLOv5 is object detection algorithm that can detect objects with high accuracy and speed.
+#### YOLOv5 is an object detection algorithm that can detect objects with high accuracy and speed.
 #### 1- Train the YOLOv5 model on wider-face custom dataset.
 #### 2- Detect the faces 
 #### 3- View the cropped faces 
